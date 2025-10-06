@@ -19,3 +19,10 @@
 2. SELEDA. (Alvaro Díaz)
 3. Lollypop (Kidd Keo)
 4. 512 (Mora)
+
+## Coches favoritos 
+
+1. Nissan GTR r35
+2. Honda NSX
+3. Lexus LFA
+4. Mustang 71 
